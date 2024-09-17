@@ -1035,6 +1035,3 @@ void loop()
   seqbot = 0;
   musica = 10;
  }
-//BUG CORRIGIDO = após a rodada 8 ou 9 a sequência muda sem motivo aparente!!!
-//fazer mecanismo que mantém o recorde na memória do ARDUINO e escreve numa tela o recorde e 3 letras da escolha da pessoa!!!
-//modo em equipe talvez? 🤔
